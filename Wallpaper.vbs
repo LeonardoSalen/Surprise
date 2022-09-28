@@ -5,7 +5,7 @@ Wshshell.run "notepad"
 WScript.Sleep 2000 
 oShell.SendKeys "% x"
 WScript.Sleep 3000 
-shell.SendKeys"  Janine,"
+shell.SendKeys"  Fritziel,"
 WScript.Sleep 1000
 shell.SendKeys"{ENTER}"
 WScript.Sleep 1000
